@@ -1,0 +1,2 @@
+total_orders,total_line_items,total_customers,total_products,total_sales,avg_sales_per_order,highest_order_value,lowest_order_value,first_order_date,last_order_date
+4922,9800,793,1861,2261536.78,714.07,23661.23,0.56,2015-01-03,2018-12-30
